@@ -1,0 +1,65 @@
+html{
+    /*background-image: -webkit-linear-gradient(to bottom,white 0%,#facd8a 100%);*/
+   /* background-image: -moz-linear-gradient(to bottom,white 0%,#facd8a 100%);*/
+    /*background-image: -o-linear-gradient(to bottom,white 0%,#facd8a 100%);*/
+    background-image: linear-gradient(white,#bf7a12 100%);
+   height: 100%;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 100%;
+    width: 700px;
+    background-color: white;
+    margin: 15px auto;
+    padding: 15px 1.5em;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+}
+header{
+    padding-bottom: 1em;
+    border-bottom: 2px solid #bf7a12;
+}
+header img{
+    float: left;
+}
+header h2{
+    font-size: 220%;
+    color: #f2972e;
+    text-align: center;
+    text-shadow: 2px 3px 0 black;
+    margin-bottom: 0.25em;
+}
+header h3{
+    font-size: 130%;
+    font-style: italic;
+    text-align: center;
+}
+/*styles for the main*/
+main{
+    clear: left;
+}
+main h1{
+    font-size: 175%;
+    margin: 1em 0 0.35em;
+}
+main h2{
+    font-size: 130%;
+}
+#contact_us{
+    margin-top: 1em;
+}
+
+a.date_passed{
+    color: gray;
+}
+/*styles for the footer*/
+footer{
+    margin-top: 2em;
+    border-top: 2px solid #f2972e;
+    padding-top: 0.7em;
+}
+footer p{
+    font-size: 80%;
+    text-align: right;
+}
