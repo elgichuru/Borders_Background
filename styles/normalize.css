@@ -10,4 +10,5 @@ body{
     height: 350px;
     float: left;
     border: 2px solid orange;
+    border-radius: 2px 2px 2px 2px;
 }
