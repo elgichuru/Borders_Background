@@ -13,3 +13,8 @@ body{
     border-radius: 2px 2px 2px 2px;
     box-shadow: 2px 2px 2px 2px ;
 }
+#sideBar{
+    width: 180px;
+    height: 350px;
+    border-left: 1px solid orange;
+}
